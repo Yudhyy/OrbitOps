@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=600&size=55&duration=1&pause=1000&color=FFFFFF&background=000435&center=true&vCenter=true&repeat=false&width=1200&lines=OrbitOps%3A+Evidence-Grounded AIOps Copilot" alt="OrbitOps: Evidence-Grounded AIOps Copilot with Non-Bypassable Assurance Gates" />
+  <img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=600&size=55&duration=1&pause=1000&color=FFFFFF&background=000435&center=true&vCenter=true&repeat=false&width=1200&lines=OrbitOps%3A+Evidence-Grounded+AIOps+Copilot" alt="OrbitOps: Evidence-Grounded AIOps Copilot with Non-Bypassable Assurance Gates" />
 </h1>
 
 <p align="center">
@@ -11,6 +11,7 @@
 ----
 #### the actual use case
 the key capability is connecting three different kinds of information:
+
 $$
 \underbrace{\text{telemetry}}_{\text{what happened}} + \underbrace{\text{historical incidents}}_{\text{what happened before}} + \underbrace{\text{technical documentation}}_{\text{what is known}}
 $$
