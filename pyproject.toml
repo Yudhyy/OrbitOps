@@ -1,0 +1,7 @@
+[project]
+name = "orbitops"
+version = "0.1.0"
+description = "OrbitOps: Evidence-Grounded AIOps Copilot with Non-Bypassable Assurance Gates"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
