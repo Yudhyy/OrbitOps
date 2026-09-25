@@ -29,7 +29,7 @@ $$
 #### the central research question
 can a retrieval-augmented investigation system improve the completeness and factual grounding of satellite anomaly reports while keeping false alarms, unsupported diagnoses, latency, and computational cost within measurable limits?
 
-#### intial-plan: architecture
+#### initial-plan: architecture
 the agent can query the numerical analysis system through a tool. we connect structured analytics with rag without asking the llm to perform every computation itself.
 
 | information | processing method |
