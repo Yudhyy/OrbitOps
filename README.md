@@ -60,5 +60,5 @@ we can use the same config; using forecasting & thresholding method; with Xcepti
 [4] [arxiv: 2603.29375](https://arxiv.org/pdf/2603.29375)<br>
 [5] [ieee: 10794845](https://ieeexplore.ieee.org/document/10794845)<br>
 [6] [arxiv: 1911.03803](https://arxiv.org/pdf/1911.03803)<br>
-[7] [tsai](https://timeseriesai.github.io/tsai/)
+[7] [tsai](https://timeseriesai.github.io/tsai/) <br>
 [8] [convnets](https://yintelligence.space/posts/convnets/)
