@@ -44,12 +44,13 @@ the agent can query the numerical analysis system through a tool. we connect str
 fortunately, there is already a research paper that has handled training, research, configuration, and hyperparameter tuning [4].
 ![alt text](public/assets/anom-detection.png)
 we can use the same config; using forecasting & thresholding method; with XceptionTimePlus architecture [5]: based on the XceptionTime architecture [6] from the `tsai` time series analysis framework [7]. to know more about this arch, these prerequisites must be completed first:
-- conventional cnns; 2d and 1d: learning features instead of engineering them
-- inception: why choose only one temporal scale?
-- resnet: why do deeper networks need shortcuts?
-- xception: separating temporal and channel interactions
-- inceptiontime: bringing inception into time-series classification
-- xceptiontime: combining inceptiontime with separable convolutions
+
+- [x]  conventional cnns; 2d/3d: learning features instead of engineering them [8]
+- [x]  inception: why choose only one temporal scale? [8]
+- [x]  resnet: why do deeper networks need shortcuts? [8]
+- [ ]  xception: separating temporal and channel interactions
+- [ ]  inceptiontime: bringing inception into time-series classification
+- [ ]  xceptiontime: combining inceptiontime with separable convolutions
 
 
 #### sources
@@ -60,3 +61,4 @@ we can use the same config; using forecasting & thresholding method; with Xcepti
 [5] [ieee: 10794845](https://ieeexplore.ieee.org/document/10794845)<br>
 [6] [arxiv: 1911.03803](https://arxiv.org/pdf/1911.03803)<br>
 [7] [tsai](https://timeseriesai.github.io/tsai/)
+[8] [convnets](https://yintelligence.space/posts/convnets/)
