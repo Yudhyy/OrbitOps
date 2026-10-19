@@ -48,7 +48,7 @@ we can use the same config; using forecasting & thresholding method; with Xcepti
 - [x]  conventional cnns; 2d/3d: learning features instead of engineering them [8]
 - [x]  inception: why choose only one temporal scale? [8]
 - [x]  resnet: why do deeper networks need shortcuts? [8]
-- [ ]  xception: separating temporal and channel interactions
+- [x]  xception: separating temporal and channel interactions [8]
 - [ ]  inceptiontime: bringing inception into time-series classification
 - [ ]  xceptiontime: combining inceptiontime with separable convolutions
 
